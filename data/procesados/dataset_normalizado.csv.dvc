@@ -1,0 +1,5 @@
+outs:
+- md5: 4f55c3769128a9739cf3a4c4f03b5114
+  size: 934633
+  hash: md5
+  path: dataset_normalizado.csv
